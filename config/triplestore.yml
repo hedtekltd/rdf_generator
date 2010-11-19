@@ -1,0 +1,3 @@
+development:
+  sparql-uri: "http://fishdelish.cs.man.ac.uk/sparql/"
+  base-uri: "http://fishdelish.cs.man.ac.uk/rdf"
